@@ -24,6 +24,9 @@ LinkedIn: <Link here>
 ### Hackathons or Competitions Won (if any, or skip this header)
 - Name of the competition - Position/Rank/Achievement
 - Brief description of your idea/project/proposal
+
+### Any other achievement/notable certification (if any, or skip this header)
+- Name of the achievement
 ```
 
 ### Example:
@@ -41,6 +44,9 @@ LinkedIn: [John's LinkedIn](https://www.linkedin.com/in/johndoe)
 ### Hackathons or Competitions Won
 - XYZ Hackathon - 1st Place
 - Developed a solution to optimize cloud data processing using AI algorithms.
+
+### Any other achievement/notable certification
+- ABC
 ```
 
 Feel free to add your own details and create a pull request!
